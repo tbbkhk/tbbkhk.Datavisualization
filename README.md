@@ -1,11 +1,11 @@
 tbbkhk.Datavisualization
 ----
-#### Build an epidemic monitoring system based on Python+Flask+Echarts, involving the following technologies:
-#### Python crawler
-#### Use Python to interact with the MySQL database
-#### Use Flask to build a Web project
-#### Data visualization based on Echarts
-#### Deploy Web projects and crawlers on Linux/Windows
+ - **Build**: an epidemic monitoring system based on Python+Flask+Echarts, involving the following technologies:
+ - : Python crawler
+ - Use Python to interact with the MySQL database
+ - Use Flask to build a Web project
+ - Data visualization based on Echarts
+ - Deploy Web projects and crawlers on Linux/Windows
 
 The project architecture
 ----
@@ -13,5 +13,5 @@ The project architecture
 
 Video presentations and blogs
 ----
-1. []()
-2. []()
+1. [zhihu](https://www.zhihu.com/zvideo/1357361741907787776)
+
